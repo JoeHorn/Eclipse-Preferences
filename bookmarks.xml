@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmarks>
+   <site url="http://directory.apache.org/studio/update/2.x" selected="true" name="Apache DS"/>
+   <site url="http://ermaster.sourceforge.net/update-site/" selected="true" name="ERMaster"/>
+   <site url="http://download.eclipse.org/releases/luna" selected="true" name="Luna"/>
+   <site url="http://download.eclipse.org/mylyn/releases/luna" selected="true" name="Mylyn for Eclipse Luna"/>
+   <site url="http://download.eclipse.org/tools/pdt/updates/3.3" selected="true" name="PDT Extensions"/>
+   <site url="http://download.eclipse.org/eclipse/updates/4.4" selected="true" name="The Eclipse Project Updates"/>
+   <site url="http://download.eclipse.org/webtools/repository/luna" selected="true" name="The Eclipse Web Tools Platform (WTP) software repository"/>
+   <site url="http://p2-dev.pdt-extensions.org/" selected="true" name="Twig"/>
+   <site url="http://community.polarion.com/projects/subversive/download/eclipse/4.0/luna-site/" selected="true" name="Update Site"/>
+</bookmarks>
