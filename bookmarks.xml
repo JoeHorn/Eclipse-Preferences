@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookmarks>
-   <site url="http://directory.apache.org/studio/update" selected="true" name="Apache DS"/>
-   <site url="http://ermaster.sourceforge.net/update-site/" selected="true" name="ERMaster"/>
-   <site url="http://download.eclipse.org/tools/pdt/updates/3.3" selected="true" name="PDT Extensions"/>
-   <site url="http://p2-dev.pdt-extensions.org/" selected="true" name="Twig"/>
+   <site url="http://directory.apache.org/studio/update/" selected="true" name="Apache Directory Studio"/>
+   <site url="http://ermaster.sourceforge.net/update-site/" selected="true" name="ER Master"/>
+   <site url="http://www.nodeclipse.org/updates/" selected="true" name="Nodeclipse"/>
+   <site url="http://p2-dev.pdt-extensions.org/" selected="true" name="PDT Extensions"/>
 </bookmarks>
