@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookmarks>
-   <site url="http://directory.apache.org/studio/update/" selected="true" name="Apache Directory Studio"/>
    <site url="http://ermaster.sourceforge.net/update-site/" selected="true" name="ER Master"/>
    <site url="http://p2-dev.pdt-extensions.org/" selected="true" name="PDT Extensions"/>
 </bookmarks>
